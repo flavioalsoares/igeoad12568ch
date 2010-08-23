@@ -1,5 +1,6 @@
 /*
- * igeoad12568ch.c -- igeoad12568ch Intergeo Analog/Converter board driver
+ * igeoad12568ch.c -- igeoad12568ch Intergeo Analog/Digital Converter 
+ *                    board driver
  *
  * Copyright (C) 2010 Flavio Alberto Lopes Soares
  *
